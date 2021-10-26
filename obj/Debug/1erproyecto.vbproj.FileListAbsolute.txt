@@ -1,0 +1,11 @@
+D:\git\visualbasic\1erproyecto\obj\Debug\1erproyecto.vbproj.AssemblyReference.cache
+D:\git\visualbasic\1erproyecto\obj\Debug\_1erproyecto.Form1.resources
+D:\git\visualbasic\1erproyecto\obj\Debug\_1erproyecto.Resources.resources
+D:\git\visualbasic\1erproyecto\obj\Debug\1erproyecto.vbproj.GenerateResource.cache
+D:\git\visualbasic\1erproyecto\obj\Debug\1erproyecto.vbproj.CoreCompileInputs.cache
+D:\git\visualbasic\1erproyecto\bin\Debug\1erproyecto.exe
+D:\git\visualbasic\1erproyecto\bin\Debug\1erproyecto.pdb
+D:\git\visualbasic\1erproyecto\bin\Debug\1erproyecto.xml
+D:\git\visualbasic\1erproyecto\obj\Debug\1erproyecto.exe
+D:\git\visualbasic\1erproyecto\obj\Debug\1erproyecto.xml
+D:\git\visualbasic\1erproyecto\obj\Debug\1erproyecto.pdb
